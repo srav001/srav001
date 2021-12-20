@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srav001
 - 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently learning flutter x firestore
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me ...
+- 🌱 I’m currently into VueJS and other new JS stuff
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me on https://www.linkedin.com/in/sravan-suresh/
 
 <!---
 srav001/srav001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
