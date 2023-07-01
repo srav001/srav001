@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srav001
 - 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently into VueJS and other new JS stuff
+- 🌱 I’m currently into Svelte, VueJS, RSC and other new JS stuff
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me on https://www.linkedin.com/in/sravan-suresh/
 
